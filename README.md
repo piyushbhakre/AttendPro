@@ -35,6 +35,10 @@ Below are some screenshots showcasing the AttendPro app in action:
     <td><img src="https://github.com/user-attachments/assets/b46dd8d6-d0cf-4f67-9aeb-c6bc0f39338f" width="200"/></td>
     <td><img src="https://github.com/user-attachments/assets/11eab0f2-2ce2-4938-a3c6-4f8aff37c666" width="200"/></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/58879767-64b9-469c-bc42-94121b5063f8" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e92e755f-025c-47a6-930d-f10799d9e2e5" width="200"/></td>
+  </tr>
 </table>
 
 ## Getting Started

@@ -31,9 +31,9 @@ Below are some screenshots showcasing the AttendPro app in action:
     <td><img src="https://github.com/user-attachments/assets/081d1009-09ae-48ac-a983-2998d3bdbcc4" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="" width="200"/></td>
-    <td><img src="https://via.placeholder.com/200" width="200"/></td>
-    <td><img src="https://via.placeholder.com/200" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b2605449-4692-45b0-a9fc-302ff822d57b" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b46dd8d6-d0cf-4f67-9aeb-c6bc0f39338f" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/11eab0f2-2ce2-4938-a3c6-4f8aff37c666" width="200"/></td>
   </tr>
 </table>
 
